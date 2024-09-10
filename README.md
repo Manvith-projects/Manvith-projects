@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hello, I'm Manvith Sai!<br>I'm a UI/UX Designer, and Full-Stack Developer based in Hyderabad, India . I love turning complex problems into simple, beautiful, and intuitive solutions. My experience spans both web development and print media, with a focus on user-friendly and efficient design.<br><br>💡 What I Do:<br>Front-End Development: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS<br>Back-End Development: Java, Servlets, JSP, JDBC, MySQL<br>UI/UX Design: Figma<br>Database: SQL<br>📂 Projects<br>Web-Based Application for Student Management and Administrative Control<br>Designed and developed a web-based application to streamline student management and administrative operations.<br>Implemented modules for student enrollment, attendance tracking, and grade management.<br>Created a user-friendly interface for both administrators and students.<br>Integrated a role-based access management system to ensure secure and tailored access for different user groups.<br>Automated administrative tasks such as report generation, fee management, and scheduling.<br>Built an integrated real-time messaging system for communication between students and administrators.<br>Utilized HTML, CSS, JavaScript, and a robust backend architecture to deliver a scalable solution.<br>Conducted user testing and feedback sessions to enhance functionality and user experience.<br>Farm2Fork<br>Developed an end-to-end solution that bridges the gap between farmers and consumers to reduce the supply chain gap.<br>Created a user-friendly platform for pre-ordering fresh produce directly from local farmers.<br>Implemented real-time inventory management to provide accurate product availability information.<br>Integrated a secure payment system for seamless transactions between farmers and consumers.<br>Focused on reducing food waste by enabling on-demand harvesting and tailored customer orders.<br>Improved the platform’s user experience with intuitive navigation, detailed product descriptions, and customer feedback mechanisms.<br>Provided farmers with analytics tools to help track sales, manage orders, and optimize crop planning.<br>Conducted market research to align the platform with consumer preferences and industry demands.<br><br>🛠 Tech Stack:<br>Languages: Java, Python, C, R<br>Tools: Git, Figma, Adobe Creative Suite<br>🌱 Currently Learning:<br>Tailwind CSS for modern, utility-first styling.
 
-<!--
-**Manvith-projects/Manvith-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yarlagadda manvith sai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_.manvith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manvith Sai Yarlagadda) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manvith-projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manvith-projects&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvith-projects&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Manvith-projects&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
